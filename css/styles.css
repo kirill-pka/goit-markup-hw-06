@@ -382,8 +382,8 @@ body {
 
     color: var(--second-color);
 }
-
 .form-massage {
+    margin-top: 4px;
     padding-top: 12px;
     padding-left: 16px;
 
@@ -1030,6 +1030,10 @@ color: var(--White-color);
 
 .footer-form {
     display: flex;
+}
+
+.form-input {
+    margin-top: 4px;
 }
 
 .footer-form-input {
